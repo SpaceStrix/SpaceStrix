@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![How-to-learn](https://github-readme-stats.vercel.app/api/pin/?username=SpaceStrix&repo=how-to-learn)](https://github.com/SpaceStrix/how-to-learn)
+[![mesto](https://github-readme-stats.vercel.app/api/pin/?username=SpaceStrix&repo=mesto)](https://github.com/SpaceStrix/mesto)
+[![mesto-react](https://github-readme-stats.vercel.app/api/pin/?username=SpaceStrix&repo=mesto-react)](https://github.com/SpaceStrix/mesto-react)
+[![russian-travel](https://github-readme-stats.vercel.app/api/pin/?username=SpaceStrix&repo=russian-travel)](https://github.com/SpaceStrix/russian-travel)
+[![react-mesto-auth](https://github-readme-stats.vercel.app/api/pin/?username=SpaceStrix&repo=react-mesto-auth)](https://github.com/SpaceStrix/react-mesto-auth)
+
 <!--
 **SpaceStrix/SpaceStrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
